@@ -1,0 +1,13 @@
+html * {
+  background-color: #3b3d42;
+}
+
+#dbc-header {
+  color: #FFFFFF;
+  font-family: Century Gothic, sans-serif;
+}
+
+#dbc-logo {
+  height: 64px;
+  width: 64px;
+}
